@@ -3,6 +3,7 @@ my modprobed.db-config
 
 使用方法:
 git clone https://github.com/aineer/modprobed.db-config.git
+
 cp -r modprobed.db $XDG_CONFIG_HOME/modprobed-db.conf
 运行modprobed-db store
 
